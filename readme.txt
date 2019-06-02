@@ -14,3 +14,5 @@ Hello World
 git管理的是文件的修改，而不是文件本身:
 
 git管理的真的是文件的修改
+
+Github和本地git的关联
